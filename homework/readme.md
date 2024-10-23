@@ -2,7 +2,7 @@
 
 ## Views
 
-[Deploy](https://mateosaune.github.io/S07_01/ "Cleaning Today")
+[Deploy](https://mateosaune.github.io/S07_01/homework/index.html "Cleaning Today")
 
 ## Descripción
 
